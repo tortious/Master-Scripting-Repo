@@ -10,6 +10,8 @@
 
 - [My Personal Repo of Stuff re Unixporn](https://github.com/tortious/unixporn) 
 
+- [IloveCandee's Dope ass Dotfile Repo](https://github.com/ilovecookieee/Glorious-Dotfiles)
+
 ## Startpage Repos That Were Dope
 
 - [Pedro-Pablo's Minimal Startpage](https://github.com/pedro-pablo/minimal-startpage-template)
