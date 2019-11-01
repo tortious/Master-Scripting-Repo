@@ -12,6 +12,8 @@
 
 - [IloveCandee's Dope ass Dotfile Repo](https://github.com/ilovecookieee/Glorious-Dotfiles)
 
+- [Repo of Some cool Python CLI-Visuals](https://github.com/rasmusmerzin/cli-visuals)
+
 ## Startpage Repos That Were Dope
 
 - [Pedro-Pablo's Minimal Startpage](https://github.com/pedro-pablo/minimal-startpage-template)
