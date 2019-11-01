@@ -10,3 +10,4 @@
 ## Startpage Repos That Were Dope
 
 - [Pedro-Pablo's Minimal Startpage](https://github.com/pedro-pablo/minimal-startpage-template)
+- [Material-Design Style Startpage](https://github.com/guilhXavier/new-homepage)
