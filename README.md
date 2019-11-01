@@ -32,3 +32,7 @@
 
 
 
+## Dotfile Managers
+
+- [Chezmoi - supposedly better than stow](https://github.com/twpayne/chezmoi)
+
