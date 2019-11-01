@@ -36,3 +36,12 @@
 
 - [Chezmoi - supposedly better than stow](https://github.com/twpayne/chezmoi)
 
+
+## Awesome Lists
+
+- [Awesome list of Awesome Lists](https://github.com/sindresorhus/awesome)
+
+- [Awesome List of CLI-apps](https://github.com/agarrharr/awesome-cli-apps)
+
+- [Awesome List of Shell Stuff](https://github.com/alebcay/awesome-shell)
+
