@@ -16,6 +16,10 @@
 
 - [Decent Repo of Various ZPlugin configs/plugins/etc](https://github.com/zdharma/zplugin-configs)
 
+- [Huge list of various dotfile repos](https://wiki.nikitavoloboev.xyz/unix/dotfiles)
+
+
+
 
 
 
