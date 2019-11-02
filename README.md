@@ -18,6 +18,8 @@
 
 - [Huge list of various dotfile repos](https://wiki.nikitavoloboev.xyz/unix/dotfiles)
 
+- [Crazy Awesome Collection of Ricing Scripts for the bin](https://github.com/tortious/dotfiles_ikigai)
+
 
 
 
