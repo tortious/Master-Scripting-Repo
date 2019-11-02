@@ -1,0 +1,30 @@
+I love scripts. Let's tell beginners how to run this.
+First copy the script https://raw.githubusercontent.com/sergiolepore/ChristBASHTree/master/tree-EN.sh
+
+Paste the script into your favorite text editor. Name it anything; example here - christmas.sh
+
+To make it executable
+
+sudo  chmod +x filename.extension
+
+With the example
+
+sudo chmod +x christmas.sh
+
+Now run this command to executable the script
+
+
+./christmas.sh
+https://i.imgur.com/p7xGKm6.png
+
+
+Merry Christmas to all and Happy Scripting.
+
+
+
+
+
+
+
+
+
