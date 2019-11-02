@@ -45,7 +45,7 @@
 
 - [Chezmoi - supposedly better than stow](https://github.com/twpayne/chezmoi)
 
-
+- [DotDrop - have not tried yet but could be legit](https://github.com/deadc0de6/dotdrop)
 ## Awesome Lists
 
 - [Awesome list of Awesome Lists](https://github.com/sindresorhus/awesome)
