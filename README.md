@@ -46,6 +46,7 @@
 - [Chezmoi - supposedly better than stow](https://github.com/twpayne/chezmoi)
 
 - [DotDrop - have not tried yet but could be legit](https://github.com/deadc0de6/dotdrop)
+
 ## Awesome Lists
 
 - [Awesome list of Awesome Lists](https://github.com/sindresorhus/awesome)
@@ -54,6 +55,7 @@
 
 - [Awesome List of Shell Stuff](https://github.com/alebcay/awesome-shell)
 
+- [Awesome Dotfiles - a persona fav of mine](https://github.com/tortious/awesome-dotfiles)
 ## Useful Tools & Archives
 - [Repo Containing r/piracy backups](https://github.com/nid666/PiracyArchive)
 
