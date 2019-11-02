@@ -67,3 +67,5 @@
 ## Various Tutorials
 
 - [Tmux tutorial](https://leimao.github.io/blog/Tmux-Tutorial/)
+
+- [Dope Tmux tutorial w other cool stuff in the parent folders](https://gitlab.com/TheOuterLinux/Command-Line/tree/master/System/Terminals%20and%20Muxinators/tmux)
