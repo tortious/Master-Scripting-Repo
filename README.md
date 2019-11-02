@@ -60,3 +60,10 @@
 - [Repo Containing r/piracy backups](https://github.com/nid666/PiracyArchive)
 
 - [Repo Containing the OpenDirectory-Downloader from r/opendirectories](https://github.com/KoalaBear84/OpenDirectoryDownloader)
+
+
+
+
+## Various Tutorials
+
+- [Tmux tutorial](https://leimao.github.io/blog/Tmux-Tutorial/)
