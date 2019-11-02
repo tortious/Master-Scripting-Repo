@@ -14,6 +14,11 @@
 
 - [Repo of Some cool Python CLI-Visuals](https://github.com/rasmusmerzin/cli-visuals)
 
+- [Decent Repo of Various ZPlugin configs/plugins/etc](https://github.com/zdharma/zplugin-configs)
+
+
+
+
 ## Startpage Repos That Were Dope
 
 - [Pedro-Pablo's Minimal Startpage](https://github.com/pedro-pablo/minimal-startpage-template)
